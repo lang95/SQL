@@ -1,0 +1,26 @@
+employeeId,lastName,firstName,reportsToId,email,phoneNumber,jobTitle
+1,Little,Eugene,4,elittle0@globo.com,86-(617)265-6034,CEO
+2,Banks,Charles,3,cbanks1@yellowpages.com,86-(752)813-0634,COO
+3,Carr,Eugene,5,ecarr2@exblog.jp,57-(359)538-7720,CIO
+4,Martin,Joe,1,jmartin3@domainmarket.com,53-(499)704-5662,CMO
+5,Franklin,Larry,5,lfranklin4@marketwatch.com,504-(501)254-4222,CFO
+6,Green,Stephen,4,sgreen5@4shared.com,62-(589)668-1616,Sales Associate
+7,Powell,Carl,5,cpowell6@umich.edu,49-(416)666-8061,Sales Associate
+8,Medina,Louis,3,lmedina7@newsvine.com,86-(899)617-3692,Sales Associate
+9,Gardner,Brian,1,bgardner8@wordpress.com,374-(264)538-4933,Sales Associate
+10,Nichols,Kevin,2,knichols9@blinklist.com,20-(159)412-2412,Sales Associate
+11,Kelley,Nicholas,5,nkelleya@hc360.com,63-(273)967-9129,Sales Associate
+12,Lynch,David,3,dlynchb@java.com,81-(853)283-3185,Sales Associate
+13,Howell,Ryan,1,rhowellc@networksolutions.com,33-(161)694-5469,Sales Associate
+14,Andrews,Aaron,5,aandrewsd@reuters.com,386-(181)259-6279,Sales Associate
+15,Harrison,Douglas,3,dharrisone@dion.ne.jp,48-(977)981-7080,Sales Associate
+16,Myers,Harold,1,hmyersf@harvard.edu,86-(433)780-5340,Sales Associate
+17,Lane,Stephen,4,slaneg@ed.gov,84-(890)136-4455,Sales Associate
+18,Garcia,Kevin,3,kgarciah@cdc.gov,1-(427)260-3929,Sales Associate
+19,Porter,Eugene,1,eporteri@acquirethisname.com,62-(323)375-1269,Sales Associate
+20,Holmes,Sean,1,sholmesj@aboutads.info,48-(489)804-5228,Sales Associate
+21,Young,Christopher,5,cyoungk@mysql.com,60-(541)536-7484,Sales Associate
+22,Morales,Mark,1,mmoralesl@vkontakte.ru,63-(992)470-2681,App developer
+23,Nelson,Keith,4,knelsonm@topsy.com,387-(988)876-2740,App developer
+24,Harper,Thomas,4,tharpern@berkeley.edu,86-(533)136-0143,Regional Manager
+25,Montgomery,Philip,4,pmontgomeryo@360.cn,33-(543)687-9692,Hardware Director
